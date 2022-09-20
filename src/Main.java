@@ -1,4 +1,5 @@
 import stepOne.One;
+import stepOne.Two;
 
 public class Main {
 
@@ -16,7 +17,10 @@ public class Main {
         //One.startHello04();
 
         //X and Y
-        One.startHello05();
+       // One.startHello05();
+
+        //Scanner
+        Two.startScanner();
     }
 
 }
